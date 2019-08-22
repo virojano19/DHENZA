@@ -1,14 +1,3 @@
-# UPDATE 12-12-2018<br>
-# SC INI FREE TIDAK UNTUK DINPERJUALBELIKAN<br>
-# HARAP GUNAKAN DENGAN BIJAK<br>
-# SUPORT BY SILENT TEAM BOT<br>
-# BEBEK BOT TEAM & JUNSAN JUNIORS<br>
-# SELFBOT + 7asist <br>
-# SEKEDAR BERBAGI ILMU BIAR BISA BERKEMBANG KETIKA LO SUDH DI ATAS JANGAN PERNAH SOMBONG DENGAN KARYA LO KARNA DULU LO BUKAN SIAPA-SIAPA.. <br>
-
-
-# Cara install <br>
-
 apt-get update -y <br>
 pkg install python -y <br>
 pkg install python2 -y <br>
@@ -30,13 +19,8 @@ pip3 install youtube_dl<br>
 git clone https://github.com/virojano19/DHENZA<br> 
 ls<br> 
 cd DHENZA<br> 
-ls<br> 
+nano dhenzapro.py<br> 
 python3 dhenzapro.py<br> 
-
-
-
-
-
 
 Note : @ Jika ingin instal pke vps tinggal tambah sudo di depan command<br> 
        @ Klo mau pake antijs+ghost tgal hapus bckup sw+dz di op.type 13&19<br>
