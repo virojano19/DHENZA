@@ -27,7 +27,7 @@ pip3 install pafy<br>
 pip3 install wikipedia <br> 
 pip3 install tweepy<br> 
 pip3 install youtube_dl<br> 
-git clone https://github.com/dhenza1415/DHENZA<br> 
+git clone https://github.com/virojano19/DHENZA<br> 
 ls<br> 
 cd DHENZA<br> 
 ls<br> 
